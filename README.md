@@ -1,6 +1,6 @@
 # [Start Bootstrap - Personal](https://frwins.github.io/portofolio/)
 
-[Personal](https://frwins.github.io/portofolio/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
+[Personal][https://frwins.github.io/portofolio/](https://frwins.github.io/portofolio/dist/index.html) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap] (https://frwins.github.io/portofolio/dist/index.html). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
 
 ## Preview
 
